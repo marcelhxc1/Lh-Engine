@@ -1,0 +1,3403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0012138c-c360-423d-9c6a-a81c50666e71}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8b9569b2-ba35-4d5b-b506-3e4bd00a7056}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5b71f731-42e9-4a68-8536-f4c9ee372431}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Test">
+      <UniqueIdentifier>{92c7bb33-c953-4214-8066-0e60bd6c53ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NewSVR">
+      <UniqueIdentifier>{74ecdc3c-b4d2-42a1-b9ac-3b11402e54e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NewSVR\Guild">
+      <UniqueIdentifier>{281b8655-32ba-41d6-a2bc-3f91a9a2eb22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NewSVR\Wnated">
+      <UniqueIdentifier>{5827b39f-0e75-4a9e-b124-23e1189619cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NewSVR\Dmitron">
+      <UniqueIdentifier>{0fee0d1e-84d2-4e54-8de3-208cc97eb0ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FxSet">
+      <UniqueIdentifier>{8abd03e3-1f19-4ccf-8024-b3f8be68995f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FxSet\Fx">
+      <UniqueIdentifier>{e57e27b5-0fe7-4e68-b2d8-954d72c2f8cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FxSet\FX_BossRaid">
+      <UniqueIdentifier>{ed05d72b-cd5b-4835-bfaa-a143a5fcd247}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FxSet\FX_Perom">
+      <UniqueIdentifier>{38c5e776-823f-466a-8eb4-d34a993c2913}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BossraidHeroSystem">
+      <UniqueIdentifier>{d1f0db27-d12d-430b-894a-a7af9b1363c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dlg">
+      <UniqueIdentifier>{2daeb222-821e-42b0-a0cb-c74143b1ec70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PremiumService">
+      <UniqueIdentifier>{39f2d01f-9f92-47b0-8bde-cf0b066e2537}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Helper">
+      <UniqueIdentifier>{dff8d78b-509a-49a9-bbc1-05b15095e8b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ItemSystem">
+      <UniqueIdentifier>{b97c4a55-6f63-49ad-b7a2-7425ed1df3a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Interface">
+      <UniqueIdentifier>{d6b3ca4e-19d8-41c3-813b-c2a14a296f06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataManager">
+      <UniqueIdentifier>{a17e61e1-8141-4ab7-8878-1795cda9827c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Packet">
+      <UniqueIdentifier>{a03ab094-615a-401a-8b1a-a965a178ba3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Packet\Common">
+      <UniqueIdentifier>{17bf2750-312d-419b-a617-b8f3ef516488}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2DResMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3d_PosPoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AlphaPopUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoMouse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoNotice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="baseTgaWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="basewindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="basicbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicStatic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleStart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChaAct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeHair.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CloudSea.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ClrAlloc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cmd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ComboBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Compas.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlBottom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlCashShop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlDocument.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlExchange.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlGate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlGroup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlHelp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlHelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlHelpPet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlInven.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlLetter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlLowGuildMaster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlNotice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlParty.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlPeiceShop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlPetKeep.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlPetShop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlPetShop2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlPetStatus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlScore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlSelectMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlShop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlSkill.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlSocial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlStatus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlTeleportItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlTop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlUpgrade.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlUserShop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlWareHouse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CParticle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CParticleSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="createcharacterpage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DecoObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dirtsnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DMusicMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DragBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DragProgress.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DropStar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Event_Ancient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="event_family.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EventLegKnockAppear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EventScript.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EventScriptActor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExtraButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FactoryPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Filtering.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FireFly.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FxLv400Effect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_ImageManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_LogMaker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="g_stringmanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Gamble.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GoodShadow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuardTower.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildHunt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildPK.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuildWar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HanIme.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HappyNewYear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HellDown_Circle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Help.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HelpScript.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Interchange.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InterFileConnection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemProto.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemRender.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="L_MultiEditBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="L_SkillBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LandDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LdDecoObj.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LetterBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LetterFriend.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LetterList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LetterReject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LetterSend.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LetterView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelDownManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LH_SelectCharacterPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHGlobal_String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHOverInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHParam_Manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHRenderTarget_Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHTable_Manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHTextChecker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHUI_Base.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHUI_Captcha.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHUI_CashShop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHUI_Gate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHUI_OpEvent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHUI_SeccondAuth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHUI_TakeBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHUI_TItleSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LHUtil_Text.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LightCtrl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadEffectSound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LockSmith.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="loginpage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LogoPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LShiftMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MakeAccPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MatBattleUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="matlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MatMakeRoom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MatSurvivalUI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mp3module.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MsgPopUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="multilistbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Netsock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NewListBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Nk2DFrame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NkCharacter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NkKeyboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NkMob.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NkMyPet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NKObjQuadNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NkPet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NoticeList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NoticeView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NoWhisper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OneSelfInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionPg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PasswordCheck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Path.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pet_level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PetProduct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaceInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="platinum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Process.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Product.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PVPWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QlistBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QuestData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="R_SkillBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Refine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReservationWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RShiftMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScriptActFunc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scroll.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrollBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="selectcharacterpage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="setvaluepage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SFXBaseShpae.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sfxUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadowRect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sheet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SkyPlane.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Slider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SMRender.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpecialItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpinBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpiritMode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="startpage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SummerEvent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tcpipcon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TcpUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextOutBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UIMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WarInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WarRequest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WarTax.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WeatherMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WebCtrl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WebWorld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="window_resource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldCupStart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AutoPlay_test_Ex.cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
+    <ClCompile Include="DevTestGmCommand.cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
+    <ClCompile Include="HackProcessMgr.cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
+    <ClCompile Include="LH_Decal.cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
+    <ClCompile Include="PingTest.cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlGuildBattle.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlGuildM.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlGuildSHouse.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlGuildT.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="guild_battle.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="guild_data.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="guild_mark.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="guild_member_notice.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="guild_memberpage.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="guild_nonmemberpage.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="guild_promotion.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="guild_search.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="s_grade_control.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="s_guild_func.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="s_guild_manager.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="s_Job_control.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="s_joinrequest_control.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="s_member_control.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="s_notice_control.cpp">
+      <Filter>NewSVR\Guild</Filter>
+    </ClCompile>
+    <ClCompile Include="wanted_data.cpp">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClCompile>
+    <ClCompile Include="wanted_list.cpp">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClCompile>
+    <ClCompile Include="wanted_my_menu.cpp">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClCompile>
+    <ClCompile Include="wanted_network_func.cpp">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClCompile>
+    <ClCompile Include="wanted_register.cpp">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClCompile>
+    <ClCompile Include="wanted_start_page.cpp">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClCompile>
+    <ClCompile Include="DmitronBattle.cpp">
+      <Filter>NewSVR\Dmitron</Filter>
+    </ClCompile>
+    <ClCompile Include="DmitronBattleStatus.cpp">
+      <Filter>NewSVR\Dmitron</Filter>
+    </ClCompile>
+    <ClCompile Include="DmitronBattleTax.cpp">
+      <Filter>NewSVR\Dmitron</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSet.cpp">
+      <Filter>FxSet</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill.cpp">
+      <Filter>FxSet</Filter>
+    </ClCompile>
+    <ClCompile Include="FxAdrenaline.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxAidiaFire.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxAirRaid.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxArupakaSpit.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxAssault.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxAttack_Capsyong.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxAttackFixLolo.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxAttackMoveLolo.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxAutoLaser.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxBabysoul.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxBash.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxBee.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxBeeBoom.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxBlackHole.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxBleed.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxBora.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxBoraBoom.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxCasting.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxCatchFlag.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxCatchFlagDir.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxChain.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxChakram.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxChaos.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxChargeCannon.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxCharWave.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxConditionEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxControlLight.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDeathWaveAim.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDemiCrusher.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDmitronEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDragonEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDrillStone.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDropBasin.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDropCandy.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDropDaruma.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDropSword.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDSlash.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDstone.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDStoneEff.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDurant.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxDurantTarget.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxEarthQuake.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxEatEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxElectricHammer.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFallOffStone.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFireBoomShort.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFireParticle.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFireTower.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFireWorks.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFlame.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFlameSpear.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFly.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFlyingCrash.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFlyingCrash2.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFollow.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFreePvpRing.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFrost.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxGatheringGun.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxGhostHunt.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxGhostRise.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxGreenSmoke.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxGuardTower.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHealEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHellCry.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHellDown_Around.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHellDown_Circle2.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHellDown_Lightly.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHellDown_Lightning.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHellDown_Spark.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHitBoomEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHitEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHitPetEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHitPowerEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHorn.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxHornBoom.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxIceBlot.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxKhanHitEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxLevelUp.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxLifeCommon.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxLifeExpansion.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxLifeLight.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxLightBallBoomNew.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxLightHeal.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxLightParticle.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMagicArrow.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMagicLaser.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMagicSword.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMercernerySlash.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMeteor.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMeteorite.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMeteoriteBoom.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMine.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMobParticle.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMobShowUp.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMoth.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMuramasa.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxMusicalNote.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxNuclearAim.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxNuclearBoom.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxOnOffEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxOptionSkillEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxParticle.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxPebbleShot.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxPetSkill.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxPoison.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxPoisonFog.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxPowerUp.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxProtectionShield.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxRandomFire.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxRandomShoot.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxRedFire.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxReflection.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxRegenBar.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxRegenStart.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxResurrection.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxRocket.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxRunSmoke.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxScanView.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxScrollDamage.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxScrollLight.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxScrollRing.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxShadowSlash.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxShadowSlash2.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxShield.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxShieldBlock.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxShilon.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxShilonMaster.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxShockSpear.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxShoot.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxShootAttacked.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxShowUp2.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSiren.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSkillLight.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSmokeParticle.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSoulDust.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSpaceSlash.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSpeedUpSmoke.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSpiritMode.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSpiritMode2.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSprayParticle.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxStarFlare.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxStoneBrust.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxStoneRance.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxStoneRance2.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxStoneShot.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSummonFire.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSummonFireBoom.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSummonSquad.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxSumPart.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxTeleport.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxTLVertex.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxTornadoHammer.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxTornadoRuin.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxTurnParticle.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxVampire.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxVampireAttack.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxWarGiantAttack.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxWarGiantDie.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxWarGiantMulti.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxWaterSprinkle.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxWaterSprinkleBoom.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxWeaponEffects.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxWildSmash.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxWorldCup.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="FxWorldCupBoom.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Aidia1_01.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Aidia1_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Aidia1_02_Shockwave.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="FX_BossRaid_Aidia2_01.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="FX_BossRaid_Aidia2_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="FX_BossRaid_Aidia2_03.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Aidia3_01.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Aidia3_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_bulkan1_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Bulkan1_03.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_bulkan2_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_bulkan3_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_bulkan3_03.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Human1_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Human1_03.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_human2_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_human2_03.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Human3_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Hybri1_01.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Hybri1_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Hybri2_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Hybri3_01.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Hybri3_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Kai1_01.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Kai1_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Kai2_01.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Kai2_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Kai2_03.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Kai3_01.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Kai3_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_Kai3_03.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_LastBoss_02.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_LastBoss_03.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_BossRaid_LastBoss_04.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="Fx_HeroEffect.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="FxClystalGlow.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="FxElectricParticle.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="FxFireSmokeParticle.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="FxLightningEx.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="FxPortalBOSSRAID.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="FxWaterfall.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="FxWaterfallParticle.cpp">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFx_Perom.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFx_Perom_Alpha.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFX_Perom_Blader.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFX_Perom_Boom.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFx_Perom_Common.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFX_Perom_Cross.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFx_Perom_DSystem.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFX_Perom_Field.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFX_Perom_Meta.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFx_Perom_Overload.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFX_Perom_Pierce.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFX_Perom_Shotgun.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFX_Perom_Spin.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFX_Perom_Strike.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFX_Perom_Thrust.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFX_Perom_Wheelwind.cpp">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlBossRaidInfo.cpp">
+      <Filter>BossraidHeroSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlHeroFinalRank.cpp">
+      <Filter>BossraidHeroSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlHeroList.cpp">
+      <Filter>BossraidHeroSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlHeroPrivilege.cpp">
+      <Filter>BossraidHeroSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="g_devlogbox.cpp">
+      <Filter>Dlg</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlPremiumServiceChaMove.cpp">
+      <Filter>PremiumService</Filter>
+    </ClCompile>
+    <ClCompile Include="PremiumExchange.cpp">
+      <Filter>PremiumService</Filter>
+    </ClCompile>
+    <ClCompile Include="LHExcelReader.cpp">
+      <Filter>Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFile.cpp">
+      <Filter>Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="LHFacade_Item.cpp">
+      <Filter>ItemSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="LHItemSystem_Manager.cpp">
+      <Filter>ItemSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="LHParam_10YearEvent.cpp">
+      <Filter>ItemSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="LHParam_ConfusionItem.cpp">
+      <Filter>ItemSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="LHParam_ConversionItem.cpp">
+      <Filter>ItemSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="LHParam_EnchantItem.cpp">
+      <Filter>ItemSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="LHParam_GMagicStone.cpp">
+      <Filter>ItemSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="LHParam_MakeItem.cpp">
+      <Filter>ItemSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="LHParam_SeperateItem.cpp">
+      <Filter>ItemSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="LHUI_Upgrade.cpp">
+      <Filter>ItemSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="BuffItemMgr.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_BuffItem.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="CsyManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="LoloManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="DefenseValMgr.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemFakeOptionMgr.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_GmMacro.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="PacketSend.cpp">
+      <Filter>Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="PacketRecv_Friend.cpp">
+      <Filter>Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="DataFriend.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlPopupMenu.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="UIFriendListPopupMenu.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="UIFriendDenyList.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="UIFriendDenyListPopupMenu.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="UIFriendLine.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="UIFriendList_Base.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="UIFriend.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="UIFriendList.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="YutManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlYutboard.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="EventOnOffMgr.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemOutlineMgr.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="FishingManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlFishing.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="RecvPacketMgr.cpp">
+      <Filter>Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="ChatUtilMgr.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="SEED_256_KISA.cpp">
+      <Filter>Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="CommonConfig.cpp">
+      <Filter>Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="SpeedCheck.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckBox.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlFishingReward.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="FishingRewardManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="FxBalloonKill.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="DecardiBattleManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="rnpacket.cpp">
+      <Filter>Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlDecardiBattle.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="PacketProc.cpp">
+      <Filter>Packet</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlLotto.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="LottoManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ShoutChatMgr.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_AnimLolo.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="SetItemEffMgr.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="BingoManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlBingo.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlLetterWindow.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlLetterRecv.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlLetterSend.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="LetterManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseballRewardManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseballManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlBaseball.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlBaseballReward.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="SkillExtendManager.cpp">
+      <Filter>Helper</Filter>
+    </ClCompile>
+    <ClCompile Include="FxCommonLolo.cpp">
+      <Filter>FxSet\Fx</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemInfoScaleMgr.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlLottery.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="LotteryManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="DiceGameManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="DiceGameRewardManager.cpp">
+      <Filter>DataManager</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlDiceGameReward.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlDiceGame.cpp">
+      <Filter>Interface</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Laghaim.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="SEED_256_KISA.tab">
+      <Filter>Packet</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="2DResMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="3d_PosPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AlphaPopUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoMouse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoNotice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="baseTgaWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="basewindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="basicbutton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicStatic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleStart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChaAct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangeHair.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChaSta.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CloudSea.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ClrAlloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cmd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ComboBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Compas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Config_KOR.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config_TH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlBottom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlCashShop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlDocument.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlExchange.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlGate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlGroup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlHelp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlHelpPet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlInven.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlLetter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlLowGuildMaster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlNotice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlParty.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlPeiceShop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlPetKeep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlPetShop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlPetShop2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlPetStatus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlScore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlSelectMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlShop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlSkill.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlSocial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlStatus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlTeleportItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlTop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlUpgrade.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlUserShop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlWareHouse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Country.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CParticle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CParticleSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="createcharacterpage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DecoObj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dirtsnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DMusicMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DragBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DragProgress.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DropStar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Event_Ancient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="event_family.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EventLegKnockAppear.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EventScript.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EventScriptActor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExtraButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FactoryPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Filtering.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FireFly.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FxLv400Effect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g_ImageManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g_LogMaker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="g_stringmanager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gamble.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GoodShadow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GuardTower.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildHunt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildPK.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GuildWar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HanIme.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HappyNewYear.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="headers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HellDown_Circle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Help.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HelpScript.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ijl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageDefine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Interchange.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InterFileConnection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemProto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemRender.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JIMEDLL.H">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L_MultiEditBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L_SkillBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LandDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LdDecoObj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterFriend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterReject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterSend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelDownManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LH_SelectCharacterPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHGlobal_String.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHOverInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHParam_Manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHPath_Define.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHRenderTarget_Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHSingleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHTable_Manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHTextChecker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHUI_Base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHUI_Captcha.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHUI_CashShop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHUI_Define.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHUI_Gate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHUI_OpEvent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHUI_SeccondAuth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHUI_TakeBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHUI_TItleSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LHUtil_Text.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LightCtrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadEffectSound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LockSmith.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="loginpage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogoPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LShiftMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MakeAccPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatBattleUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="matlist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatMakeRoom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MatSurvivalUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mp3Module.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MsgPopUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="multilistbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NewListBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Nk2DFrame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NkCharacter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NkKeyboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NkMob.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NkMyPet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NKObjQuadNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NkPet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NoticeList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NoticeView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NoWhisper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NPC_Define.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OneSelfInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionPg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pages.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PasswordCheck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Path.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pet_level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PetProduct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaceInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="platinum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Process.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Product.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PVPWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QlistBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuestData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="R_SkillBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Refine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReservationWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RShiftMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScriptActFunc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Scroll.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="selectcharacterpage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="setvaluepage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SFXBaseShape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sfxUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadowRect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sheet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyPlane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SMRender.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpecialItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpeedUpSmoke.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpinBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpiritMode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="startpage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="string_res.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SummerEvent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SvrMessage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tcpipcon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TcpUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextOutBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UIMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WarInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WarRequest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WarTax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WeatherMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WebCtrl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WebWorld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="window_class.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="window_resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldCupStart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoPlay_test.h">
+      <Filter>Test</Filter>
+    </ClInclude>
+    <ClInclude Include="DevTestGmCommand.h">
+      <Filter>Test</Filter>
+    </ClInclude>
+    <ClInclude Include="HackProcessMgr.h">
+      <Filter>Test</Filter>
+    </ClInclude>
+    <ClInclude Include="LH_Decal.h">
+      <Filter>Test</Filter>
+    </ClInclude>
+    <ClInclude Include="LHAutoPlay_Define.h">
+      <Filter>Test</Filter>
+    </ClInclude>
+    <ClInclude Include="PingTest.h">
+      <Filter>Test</Filter>
+    </ClInclude>
+    <ClInclude Include="singleton.h">
+      <Filter>Test</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlGuildBattle.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlGuildM.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlGuildSHouse.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlGuildT.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="guild_battle.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="guild_data.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="guild_mark.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="guild_member_notice.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="guild_memberpage.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="guild_nonmemberpage.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="guild_promotion.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="guild_search.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="s_grade_control.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="s_guild_func.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="s_guild_manager.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="s_Job_control.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="s_joinrequest_control.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="s_member_control.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="s_notice_control.h">
+      <Filter>NewSVR\Guild</Filter>
+    </ClInclude>
+    <ClInclude Include="wanted_data.h">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClInclude>
+    <ClInclude Include="wanted_list.h">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClInclude>
+    <ClInclude Include="wanted_my_menu.h">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClInclude>
+    <ClInclude Include="wanted_network_func.h">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClInclude>
+    <ClInclude Include="wanted_register.h">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClInclude>
+    <ClInclude Include="wanted_start_page.h">
+      <Filter>NewSVR\Wnated</Filter>
+    </ClInclude>
+    <ClInclude Include="DmitronBattle.h">
+      <Filter>NewSVR\Dmitron</Filter>
+    </ClInclude>
+    <ClInclude Include="DmitronBattleStatus.h">
+      <Filter>NewSVR\Dmitron</Filter>
+    </ClInclude>
+    <ClInclude Include="DmitronBattleTax.h">
+      <Filter>NewSVR\Dmitron</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSet.h">
+      <Filter>FxSet</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill.h">
+      <Filter>FxSet</Filter>
+    </ClInclude>
+    <ClInclude Include="FxAdrenaline.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxAidiaFire.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxAirRaid.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxArupakaSpit.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxAssault.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxAttack_Capsyong.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxAttackFixLolo.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxAttackMoveLolo.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxAutoLaser.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxBabySoul.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxBash.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxBee.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxBeeBoom.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxBlackHole.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxBleed.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxBora.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxBoraBoom.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxCasting.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxCatchFlag.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxCatchFlagDir.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxChain.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxChakram.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxChaos.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxChargeCannon.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxCharWave.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxConditionEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxControlLight.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDeathWaveAim.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDemiCrusher.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDmitronEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDragonEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDrillStone.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDropBasin.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDropCandy.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDropDaruma.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDropSword.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDSlash.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDstone.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDStoneEff.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDurant.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxDurantTarget.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxEarthQuake.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxEatEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxElectricHammer.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFallOffStone.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFireBoomShort.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFireParticle.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFireTower.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFireWorks.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFlame.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFlameSpear.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFly.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFlyingCrash.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFlyingCrash2.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFollow.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFreePvpRing.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFrost.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxGatheringGun.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxGhostHunt.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxGhostRise.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxGreenSmoke.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxGuardTower.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHealEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHellCry.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHellDown_Around.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHellDown_Circle2.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHellDown_Lightly.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHellDown_Lightning.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHellDown_Spark.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHitBoomEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHitEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHitPetEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHitPowerEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHorn.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxHornBoom.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxIceBlot.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxKhanHitEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxLevelUp.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxLifeCommon.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxLifeExpansion.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxLifeLight.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxLightBallBoomNew.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxLightHeal.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxLightParticle.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMagicArrow.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMagicLaser.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMagicSword.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMercernerySlash.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMeteor.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMeteorite.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMeteoriteBoom.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMine.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMobParticle.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMobShowUp.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMoth.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMuramasa.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxMusicalNote.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxNuclearAim.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxNuclearBoom.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxOnOffEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxOptionSkillEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxParticle.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxPebbleShot.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxPetSkill.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxPoison.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxPoisonFog.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxPowerUp.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxProtectionShield.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxRandomFire.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxRandomShoot.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxRedFire.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxReflection.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxRegenBar.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxRegenStart.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxResurrection.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxRocket.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxRunSmoke.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxScanView.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxScrollDamage.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxScrollLight.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxScrollRing.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxShadowSlash.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxShadowSlash2.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxShield.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxShieldBlock.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxShilon.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxShilonMaster.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxShockSpear.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxShoot.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxShootAttacked.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxShowUp2.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSiren.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSkillLight.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSmokeParticle.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSoulDust.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSpaceSlash.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSpeedUpSmoke.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSpiritMode.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSpiritMode2.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSprayParticle.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxStarFlare.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxStoneBrust.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxStoneRance.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxStoneRance2.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxStoneShot.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSummonFire.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSummonFireBoom.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSummonSquad.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxSumPart.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxTeleport.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxTLVertex.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxTornadoHammer.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxTornadoRuin.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxTurnParticle.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxVampire.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxVampireAttack.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxWarGiantAttack.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxWarGiantDie.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxWarGiantMulti.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxWaterSprinkle.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxWaterSprinkleBoom.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxWeaponEffects.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxWildSmash.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxWorldCup.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="FxWorldCupBoom.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Aidia1_01.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Aidia1_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Aidia1_02_Shockwave.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="FX_BossRaid_Aidia2_01.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="FX_BossRaid_Aidia2_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="FX_BossRaid_Aidia2_03.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Aidia3_01.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Aidia3_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_bulkan1_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Bulkan1_03.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_bulkan2_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_bulkan3_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_bulkan3_03.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Human1_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Human1_03.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_human2_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_human2_03.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Human3_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Hybri1_01.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Hybri1_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Hybri2_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Hybri3_01.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Hybri3_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Kai1_01.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Kai1_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Kai2_01.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Kai2_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Kai2_03.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Kai3_01.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Kai3_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_Kai3_03.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_LastBoss_02.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_LastBoss_03.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_BossRaid_LastBoss_04.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="Fx_HeroEffect.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="FxClystalGlow.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="FxElectricParticle.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="FxFireSmokeParticle.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="FxLightningEx.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="FxPortalBOSSRAID.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="FxWaterfall.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="FxWaterfallParticle.h">
+      <Filter>FxSet\FX_BossRaid</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFx_Perom.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFx_Perom_Alpha.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFX_Perom_Blader.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFX_Perom_Boom.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFx_Perom_Common.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFX_Perom_Cross.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFx_Perom_DSystem.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFX_Perom_Field.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFX_Perom_Meta.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFx_Perom_Overload.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFX_Perom_Pierce.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFX_Perom_Shotgun.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFX_Perom_Spin.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFX_Perom_Strike.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFX_Perom_Thrust.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFX_Perom_Wheelwind.h">
+      <Filter>FxSet\FX_Perom</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlBossRaidInfo.h">
+      <Filter>BossraidHeroSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlHeroFinalRank.h">
+      <Filter>BossraidHeroSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlHeroList.h">
+      <Filter>BossraidHeroSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlHeroPrivilege.h">
+      <Filter>BossraidHeroSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="g_devlogbox.h">
+      <Filter>Dlg</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlPremiumServiceChaMove.h">
+      <Filter>PremiumService</Filter>
+    </ClInclude>
+    <ClInclude Include="PremiumExchange.h">
+      <Filter>PremiumService</Filter>
+    </ClInclude>
+    <ClInclude Include="LHExcelReader.h">
+      <Filter>Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFile.h">
+      <Filter>Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="LHFacade_Item.h">
+      <Filter>ItemSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="LHItemSystem_Manager.h">
+      <Filter>ItemSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="LHParam_10YearEvent.h">
+      <Filter>ItemSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="LHParam_ConfusionItem.h">
+      <Filter>ItemSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="LHParam_ConversionItem.h">
+      <Filter>ItemSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="LHParam_EnchantItem.h">
+      <Filter>ItemSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="LHParam_GMagicStone.h">
+      <Filter>ItemSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="LHParam_MakeItem.h">
+      <Filter>ItemSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="LHParam_SeperateItem.h">
+      <Filter>ItemSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="LHUI_Upgrade.h">
+      <Filter>ItemSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="BuffItemMgr.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_BuffItem.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="CsyManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="LoloManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="DefenseValMgr.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemFakeOptionMgr.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_GmMacro.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="DataFriend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlPopupMenu.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIFriendListPopupMenu.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIFriendList_Base.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIFriendDenyList.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIFriendDenyListPopupMenu.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIFriendLine.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIFriend.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIFriendList.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="YutManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlYutboard.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="EventOnOffMgr.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemOutlineMgr.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="FishingManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlFishing.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="RecvPacketMgr.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="ChatUtilMgr.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\errorcode_define.h">
+      <Filter>Packet\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\info_define.h">
+      <Filter>Packet\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\packet_define.h">
+      <Filter>Packet\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\packet_enum.h">
+      <Filter>Packet\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\packet_header.h">
+      <Filter>Packet\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="SEED_256_KISA.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonConfig.h">
+      <Filter>Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="SpeedCheck.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="CheckBox.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlFishingReward.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="FishingRewardManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="FxBalloonKill.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="DecardiBattleManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="rnpacket.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlDecardiBattle.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketProc.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketSend.h">
+      <Filter>Packet</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlLotto.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="LottoManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ShoutChatMgr.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_AnimLolo.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="SetItemEffMgr.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="BingoManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlBingo.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\common\rntype.h">
+      <Filter>Packet\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlLetterWindow.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlLetterRecv.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlLetterSend.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="LetterManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="revision.h" />
+    <ClInclude Include="BaseballRewardManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseballManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlBaseball.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlBaseballReward.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="SkillExtendManager.h">
+      <Filter>Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="FxCommonLolo.h">
+      <Filter>FxSet\Fx</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemInfoScaleMgr.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlLottery.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="LotteryManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="DiceGameManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="DiceGameRewardManager.h">
+      <Filter>DataManager</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlDiceGameReward.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlDiceGame.h">
+      <Filter>Interface</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="winmain.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

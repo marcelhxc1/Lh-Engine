@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Json">
+      <UniqueIdentifier>{143adfd5-068c-4b8d-9e50-98b2998e3f4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BugTrap">
+      <UniqueIdentifier>{7a4dd256-e301-4b62-b70e-ae16aefc9ac7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{8756045c-6d82-4b2b-b423-9b49acdc2890}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Util">
+      <UniqueIdentifier>{56afe00b-9764-4480-be69-93b4427edbb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Packing">
+      <UniqueIdentifier>{0efd0d13-72b3-4afc-a969-444d518e99f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QuadTree">
+      <UniqueIdentifier>{3ae284ea-87b0-4cb2-a3a4-047f75b5e2ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NFS_Lib">
+      <UniqueIdentifier>{8f2d99f6-6225-4c44-9532-6dbdd96e17db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Render">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D3DApp.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="D3DEnum.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="D3DFrame.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="D3DMath.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="D3DUtil.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="ddutil.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="dxutil.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Frustum.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Nk3DMipmap.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="nfs.cpp">
+      <Filter>NFS_Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="nfs_data.cpp">
+      <Filter>NFS_Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="nfs_dt.cpp">
+      <Filter>NFS_Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="nfs_fat.cpp">
+      <Filter>NFS_Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="nfs_iio.cpp">
+      <Filter>NFS_Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="nfs_nt.cpp">
+      <Filter>NFS_Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="nfs_pmatch.cpp">
+      <Filter>NFS_Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="NfsVirtualFile.cpp">
+      <Filter>NFS_Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Header\json\json_reader.cpp">
+      <Filter>Json</Filter>
+    </ClCompile>
+    <ClCompile Include="Header\json\json_value.cpp">
+      <Filter>Json</Filter>
+    </ClCompile>
+    <ClCompile Include="Header\json\json_writer.cpp">
+      <Filter>Json</Filter>
+    </ClCompile>
+    <ClCompile Include="WaterObj.cpp">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="CapSyong.cpp">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="VirtualFile.cpp">
+      <Filter>Packing</Filter>
+    </ClCompile>
+    <ClCompile Include="FileManager.cpp">
+      <Filter>Packing</Filter>
+    </ClCompile>
+    <ClCompile Include="IndexedTexture.cpp">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Land.cpp">
+      <Filter>Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTreeNode.cpp">
+      <Filter>QuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="NKTerQuadNode.cpp">
+      <Filter>QuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="NKMath.cpp">
+      <Filter>Util</Filter>
+    </ClCompile>
+    <ClCompile Include="DFloor.cpp">
+      <Filter>Resource</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header\nfs.h">
+      <Filter>NFS_Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="header\nfs_data.h">
+      <Filter>NFS_Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="header\nfs_dt.h">
+      <Filter>NFS_Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="header\nfs_fat.h">
+      <Filter>NFS_Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="header\nfs_iio.h">
+      <Filter>NFS_Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="header\nfs_nt.h">
+      <Filter>NFS_Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="header\nfs_pmatch.h">
+      <Filter>NFS_Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="header\NfsVirtualFile.h">
+      <Filter>NFS_Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Header\json\autolink.h">
+      <Filter>Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\json\config.h">
+      <Filter>Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\json\features.h">
+      <Filter>Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\json\forwards.h">
+      <Filter>Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\json\json.h">
+      <Filter>Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\json\json_batchallocator.h">
+      <Filter>Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\json\reader.h">
+      <Filter>Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\json\value.h">
+      <Filter>Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\json\writer.h">
+      <Filter>Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\BugTrap.h">
+      <Filter>BugTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\BTAtlWindow.h">
+      <Filter>BugTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\BTMfcWindow.h">
+      <Filter>BugTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\BTTrace.h">
+      <Filter>BugTrap</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\Config.h" />
+    <ClInclude Include="Header\WaterObj.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="header\singleton.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\CapSyong.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="header\Def.h" />
+    <ClInclude Include="Header\Country.h" />
+    <ClInclude Include="Header\VirtualFile.h">
+      <Filter>Packing</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\FileManager.h">
+      <Filter>Packing</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\IndexedTexture.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\Land.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\QuadTreeNode.h">
+      <Filter>QuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\NKTerQuadNode.h">
+      <Filter>QuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\NKMath.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\dxutil.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\DFloor.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\ClrAlloc.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\Nk3DMipmap.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\D3DApp.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\D3DEnum.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\D3DFrame.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\D3DMath.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\D3DUtil.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\ddutil.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\Frustum.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\NKVertexType.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Header\MemoryPoolBase.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Header\json\json_internalarray.inl">
+      <Filter>Json</Filter>
+    </None>
+    <None Include="Header\json\json_internalmap.inl">
+      <Filter>Json</Filter>
+    </None>
+    <None Include="Header\json\json_valueiterator.inl">
+      <Filter>Json</Filter>
+    </None>
+  </ItemGroup>
+</Project>
